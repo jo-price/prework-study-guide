@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header,
+footer {
+    width: 100%;
+    height: 120px;
+    background-color: #48C9B0;
+    color: white;
+}
+
+h1,
+h2 {
+    text-align: center;
+    font-family: Georgia, serif;
+
+}
+
+img {
+    display: block;
+    height: 50px;
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    padding-left: 40px;
+    font-size: 20px;
+    font-family: Helvetica, Arial, sans-serif;
+    
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    font-family: Georgia, serif;
+    
+}
+
+.card {
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid #34495E;
+    box-shadow: 5px 10px #5D6D7E;
+}
+
